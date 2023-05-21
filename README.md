@@ -15,7 +15,9 @@ python3 manage.py migrate
 
 ## Test 
 
-TODO
+```shell
+python3 manage.py test
+```
 
 ## Run
 
